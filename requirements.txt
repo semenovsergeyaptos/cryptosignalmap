@@ -1,0 +1,6 @@
+requests
+matplotlib
+pandas
+tweepy
+textblob
+plotly
