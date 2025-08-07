@@ -14,6 +14,6 @@
 ## 📦 Установка
 
 ```bash
-git clone https://github.com/yourusername/cryptosignalmap.git
+git clone https://github.com/semenovsergeyaptos/cryptosignalmap.git
 cd cryptosignalmap
 pip install -r requirements.txt
